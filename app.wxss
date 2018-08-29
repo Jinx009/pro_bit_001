@@ -23,7 +23,6 @@ icon {
     margin-top: 1.17647059em;
     background-color: #fff;
     line-height: 1.41176471;
-    font-size: 14px
 }
 
 .weui-cells:before {
@@ -51,7 +50,6 @@ icon {
     padding-left: 15px;
     padding-right: 15px;
     color: #999;
-    font-size: 14px
 }
 
 .weui-cells_after-title {
@@ -63,7 +61,6 @@ icon {
     color: #999;
     padding-left: 15px;
     padding-right: 15px;
-    font-size: 14px
 }
 
 .weui-cell {

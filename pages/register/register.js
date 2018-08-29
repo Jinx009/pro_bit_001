@@ -24,17 +24,17 @@ Page({
   },
   _cD: function (e) {
     this.setData({
-      _p: e.detail.value
+      _c: e.detail.value
     })
   },
   _nD: function (e) {
     this.setData({
-      _p: e.detail.value
+      _n: e.detail.value
     })
   },
   _login: function () {
     wx.redirectTo({
-      url: '/pages/login/login'
+      url: '/pages/index/index'
     })
   },
   _register: function () {
@@ -66,7 +66,7 @@ Page({
               duration: 1000
             })
             wx.redirectTo({
-              url: '/pages/login/login'
+              url: '/pages/index/index'
             })
           } else {
             wx.showToast({

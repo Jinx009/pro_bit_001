@@ -4,6 +4,7 @@
     "pages/done/done",
     "pages/detail/detail",
     "pages/register/register",
+    "pages/me/me",
     "pages/index/index"
   ],
   "window": {
@@ -29,6 +30,12 @@
         "iconPath": "images/22.png",
         "pagePath": "pages/done/done",
         "text": "已完成"
+      },
+      {
+        "selectedIconPath": "images/331.png",
+        "iconPath": "images/33.png",
+        "pagePath": "pages/me/me",
+        "text": "关于我"
       }
     ]
   }
